@@ -1,5 +1,5 @@
 <?php
-	require_once($_SERVER['DOCUMENT_ROOT'].'/ever/function.php');
+	/*require_once($_SERVER['DOCUMENT_ROOT'].'/ever/function.php');
 	require_once($_SERVER['DOCUMENT_ROOT'].'/ever/class.php');
 	require_once($_SERVER['DOCUMENT_ROOT'].'/ever/session.php');
 	//ini_set('display_errors', 1);
@@ -15,4 +15,5 @@
 	}else{
 		require_once($_SERVER['DOCUMENT_ROOT'].'/auto/auto.php');
 	}
-	
+	*/
+	echo "Hellow world!";
