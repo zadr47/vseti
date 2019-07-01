@@ -1,4 +1,6 @@
 <?php
+	echo "Hellow world!";
+	/*
 	$db = parse_url("postgres://tizahfcrzrgynl:d814b59ae9038ac5632173fc5219e96adedc7202593b84d4ae70aa5fc19a4b62@ec2-54-228-246-214.eu-west-1.compute.amazonaws.com:5432/db63qheeq6sg9");
 
 	$conn = new PDO("pgsql:" . sprintf(
